@@ -1,6 +1,10 @@
 <div align="center">
 
-# Roxlo
+<div align="center">
+
+<img src="./roxlo-logo.png" width="550" alt="Roxlo Logo">
+
+</div>
 
 ### A classic Roblox inspired game with a modern twist
 

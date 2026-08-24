@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./ChatGPT%20Image%20Aug%2024,%202026,%2006_47_02%20PM.png" width="550" alt="Roxlo Logo">
-
 # Roxlo
 
 ### A classic Roblox inspired game with a modern twist
@@ -57,3 +55,13 @@ Development screenshots will be added as Roxlo progresses.
 ## Credits
 
 Created by **wayaanthecoder23**
+
+---
+
+<div align="center">
+
+**Roxlo**
+<br>
+*Build. Play. Create.*
+
+</div>

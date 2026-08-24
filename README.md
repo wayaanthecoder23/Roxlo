@@ -1,8 +1,59 @@
-<img width="1918" height="820" alt="ChatGPT Image Aug 24, 2026, 06_31_40 PM" src="https://github.com/user-attachments/assets/60a9d73b-4c6c-42bf-adc7-2078b8f5ba9c" />
+<div align="center">
 
+<img src="./ChatGPT%20Image%20Aug%2024,%202026,%2006_47_02%20PM.png" width="550" alt="Roxlo Logo">
 
-Roxlo is a Roblox game inspired by the classic era of Roblox, combining its nostalgic style with modern features and a fresh visual theme.
+# Roxlo
 
-Explore new items, custom animations, and unique experiences while enjoying a mix of classic and modern Roblox gameplay.
+### A classic Roblox inspired game with a modern twist
 
-With **RoxStudio**, players can also create their own games and design custom items, giving them the freedom to build and share their own experiences within Roxlo.
+**Roxlo is currently in development**
+
+</div>
+
+---
+
+## About
+
+**Roxlo** is a Roblox inspired game combining the nostalgic feel of classic Roblox with modern features and a fresh visual style.
+
+Explore unique experiences, collect new items, use custom animations, and create your own content with **RoxStudio**.
+
+## Features
+
+- Classic Roblox inspired gameplay
+- Custom animations
+- Unique items and cosmetics
+- Custom experiences
+- **RoxStudio**
+- Game creation tools
+- Custom item creation
+
+## RoxStudio
+
+**RoxStudio** is Roxlo's built in creation system.
+
+Players will be able to create their own games and design custom items, giving them the freedom to build and share their own experiences.
+
+## Development
+
+> 🚧 Roxlo is currently in development.
+
+### Roadmap
+
+- [x] Project setup
+- [ ] Core gameplay
+- [ ] Player customization
+- [ ] Item system
+- [ ] Custom animations
+- [ ] RoxStudio
+- [ ] Game creation
+- [ ] Custom item creation
+- [ ] Public release
+
+## Screenshots
+
+Development screenshots will be added as Roxlo progresses.
+
+## Credits
+
+Created by **wayaanthecoder23**
